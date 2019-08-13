@@ -23,6 +23,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Remove CHANGELOG files in packages
 - Add section about CHANGELOG entries to CONTRIBUTING guide
 - Remove `as any` from `@customElement` decorators
+- Implemented:
+  - mwc-textfield
+  - mwc-notched-outline
+  - mwc-line-ripple-directive
+  - mwc-floating-label-directive
 
 ## [0.6.0] - 2019-06-05
 - Upgrade lerna to 3.x
